@@ -1,0 +1,40 @@
+{
+    "page": 1,
+    "results": [
+        {
+            "poster_path": null,
+            "popularity": 1,
+            "id": 24511,
+            "overview": "",
+            "backdrop_path": null,
+            "vote_average": 0,
+            "media_type": "tv",
+            "first_air_date": "",
+            "origin_country": [
+                "GB"
+            ],
+            "genre_ids": [],
+            "original_language": "en",
+            "vote_count": 0,
+            "name": "Bradley",
+            "original_name": "Bradley"
+        },
+        {
+            "poster_path": "/jksXcyWURdXMcGgShL0aMSR7g8d.jpg",
+            "adult": false,
+            "overview": "Bradley vs. Provodnikov for the WBO Welterweight title was fought on March 16th, 2012 at The Home Depot Center in Carson, California, USA.",
+            "release_date": "2013-03-16",
+            "original_title": "Bradley vs. Provodnikov",
+            "genre_ids": [],
+            "id": 179821,
+            "media_type": "movie",
+            "original_language": "en",
+            "title": "Bradley vs. Provodnikov",
+            "backdrop_path": "/jzqQCuTQyZAglGMTV8fSE3HKpma.jpg",
+            "popularity": 1.001714,
+            "vote_count": 0,
+            "video": true,
+            "vote_average": 0
+        }
+    ]
+}
